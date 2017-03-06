@@ -1,0 +1,8 @@
+c:\users\andrew\documents\visual studio 2015\Projects\BowlingScorer\test_BowlingScorer\obj\Debug\test_BowlingScorer.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2015\Projects\BowlingScorer\test_BowlingScorer\bin\Debug\test_BowlingScorer.dll
+c:\users\andrew\documents\visual studio 2015\Projects\BowlingScorer\test_BowlingScorer\bin\Debug\test_BowlingScorer.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\BowlingScorer\test_BowlingScorer\bin\Debug\BowlingScorer.dll
+c:\users\andrew\documents\visual studio 2015\Projects\BowlingScorer\test_BowlingScorer\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\andrew\documents\visual studio 2015\Projects\BowlingScorer\test_BowlingScorer\bin\Debug\BowlingScorer.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\BowlingScorer\test_BowlingScorer\obj\Debug\test_BowlingScorer.dll
+c:\users\andrew\documents\visual studio 2015\Projects\BowlingScorer\test_BowlingScorer\obj\Debug\test_BowlingScorer.pdb
